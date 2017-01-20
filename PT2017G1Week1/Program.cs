@@ -14,6 +14,12 @@ namespace PT2017G1Week1
             public int age;
             public double gpa;
 
+            public Student(string name, string surname)
+            {
+                this.name = name;
+                this.surname = surname;
+            }
+
             public double GetGPA()
             {
                 return gpa;
@@ -31,16 +37,12 @@ namespace PT2017G1Week1
              * comments
              * 
              */ 
-            Student a = new Student();
-            a.name = "Marat";
-            a.surname = "Abuov";
+            Student a = new Student("Marat", "Abuov");
             a.age = 20;
             a.gpa = 4.0;
 
             // Student 2
-            Student b = new Student();
-            b.name = "aaa";
-            b.surname = "bbb";
+            Student b = new Student("aaa", "bbb");
             b.age = 21;
             b.gpa = 3.0;
 
