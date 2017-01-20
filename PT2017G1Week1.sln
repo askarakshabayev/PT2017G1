@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PT2017G1Week1", "PT2017G1Week1\PT2017G1Week1.csproj", "{857FB43C-3CD7-4BFA-8EF9-0B0604C622C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PT2017G1Week1_1", "PT2017G1Week1_1\PT2017G1Week1_1.csproj", "{23E1EDB5-F809-4A86-BCD2-7A1242D9EB9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{857FB43C-3CD7-4BFA-8EF9-0B0604C622C1}.Debug|x86.Build.0 = Debug|x86
 		{857FB43C-3CD7-4BFA-8EF9-0B0604C622C1}.Release|x86.ActiveCfg = Release|x86
 		{857FB43C-3CD7-4BFA-8EF9-0B0604C622C1}.Release|x86.Build.0 = Release|x86
+		{23E1EDB5-F809-4A86-BCD2-7A1242D9EB9A}.Debug|x86.ActiveCfg = Debug|x86
+		{23E1EDB5-F809-4A86-BCD2-7A1242D9EB9A}.Debug|x86.Build.0 = Debug|x86
+		{23E1EDB5-F809-4A86-BCD2-7A1242D9EB9A}.Release|x86.ActiveCfg = Release|x86
+		{23E1EDB5-F809-4A86-BCD2-7A1242D9EB9A}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
