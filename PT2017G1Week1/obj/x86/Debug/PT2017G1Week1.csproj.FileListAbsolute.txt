@@ -1,0 +1,4 @@
+c:\users\a.akshabaev\documents\visual studio 2010\Projects\PT2017G1Week1\PT2017G1Week1\bin\Debug\PT2017G1Week1.exe
+c:\users\a.akshabaev\documents\visual studio 2010\Projects\PT2017G1Week1\PT2017G1Week1\bin\Debug\PT2017G1Week1.pdb
+c:\users\a.akshabaev\documents\visual studio 2010\Projects\PT2017G1Week1\PT2017G1Week1\obj\x86\Debug\PT2017G1Week1.exe
+c:\users\a.akshabaev\documents\visual studio 2010\Projects\PT2017G1Week1\PT2017G1Week1\obj\x86\Debug\PT2017G1Week1.pdb
